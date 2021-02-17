@@ -4,12 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Lutfi, 25 y.o. Live in Tangerang, Indonesia
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+## Junior level developer
+### Language Covered
+*HTML
+*CSS
+*Javascript
+*PHP
+*Python
+*Cpp
+
+### Framework Covered
+*Arduino
+*React
+*Laravel
+*Flask
+
+### Tool used
+*Figma
+*Adobe XD
+*VS Code
+*Postman
+
+## Online Playground //Repl.It
+# <https://repl.it/@lutfiikbalmajid>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lutfiikbalmajid2@gmail.com](mailto:lutfiikbalmajid2@gmail.com)
+[Phone/WA: 6281380701384](https://api.whatsapp.com/send?phone=6281380701384)
